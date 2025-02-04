@@ -1,26 +1,49 @@
-# Hi there, I'm Kaniz Naqvi 👋
+# Hi, I'm Mehak Naqvi! 👋
 
-<!--
-**kaniz-naqvi/kaniz-naqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## 🚀 About Me
+🎓 **BSCS Student | Full Stack Developer (MERN) | Aspiring AI Engineer**  
+💻 Passionate about Web Development, AI, and Cloud Computing  
+🌍 Learning Korean | Dreaming of South Korea 🇰🇷  
+📚 Constantly improving my skills in JavaScript, React, and Backend Development  
 
-## About Me
+---
 
-I am a passionate software developer with experience in various technologies and frameworks. I love coding, learning new things, and contributing to open-source projects.
+## 🛠 Tech Stack
 
-- 🌱 I’m currently learning Backend development.
-- 📫 How to reach me: mehak313naqvi@gmail.com
-  
-## My Skills
+**Frontend:**
+- HTML, CSS, Bootstrap, tailwind
+- JavaScript, React.js
 
-- **Languages:** JS and C++
-- **Frameworks:** Tailwind, Bootstrap, React, Node js
-- **Tools:** ChatGPT, VS code, Canva
+**Backend:**
+- Node.js, Express.js
+- MongoDB, Firebase (Learning)
 
-## GitHub Stats
+**Other Skills:**
+- UI/UX Design (Learning)
+- Data Structures & Algorithms (JavaScript)
+- REST APIs & Database Management
 
-![Kaniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaniz-naqvi&show_icons=true&theme=radical)
+---
 
-## Connect with Me
+## 📌 Featured Projects
 
-- [LinkedIn](https://www.linkedin.com/in/mehak-fatima-naqvi/)
+🔹 **[Cloud Ignite](#)** - A Cloud Service Website (🚧 Work in Progress)  
+🔹 **[K-Drama Hub](#)** - A K-Drama Search & Info Platform  (🚧 Work in Progress)  
+
+---
+
+## 📈 GitHub Stats
+
+![Mehak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehakNaqvi&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mehak-naqvi/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-purple?style=flat&logo=react)](#)  
+[![Instagram](https://img.shields.io/badge/Instagram-Journey-orange?style=flat&logo=instagram)](#)  
+
+---
+
+💡 *"Building the Future, One Line of Code at a Time."*

@@ -34,8 +34,7 @@
 
 ## 📈 GitHub Stats
 
-![Mehak's GitHub Stats][(https://github-readme-stats.vercel.app/api?username=MehakNaqvi&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=kaniz-naqvi&show_icons=true&theme=radical
-)
+![Mehak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaniz-naqvi&show_icons=true&theme=radical)
 
 ---
 

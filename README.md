@@ -1,49 +1,27 @@
-# Hi, I'm Mehak Naqvi! 👋
+# Hi there, I'm Mehak Naqvi  
 
-## 🚀 About Me
-🎓 **BSCS Student | Full Stack Developer (MERN) | Aspiring AI Engineer**  
-💻 Passionate about Web Development, AI, and Cloud Computing  
-🌍 Learning Korean | Dreaming of South Korea 🇰🇷  
-📚 Constantly improving my skills in JavaScript, React, and Backend Development  
+I’m a **Frontend Developer** and an aspiring **Full Stack Python Developer & AI Engineer**. I am passionate about creating efficient, scalable, and visually appealing web applications.  
 
----
+## What I Do  
+- Frontend Development: React, Redux, JavaScript, Tailwind CSS, Bootstrap  
+- Backend Development: Node.js, Express, MongoDB (Learning)  
+- Problem Solving: Data Structures & Algorithms in JavaScript  
+- Building Scalable Projects: MERN Stack, REST APIs  
 
-## 🛠 Tech Stack
+## Current Focus  
+- Mastering Redux and Backend Development  
+- Freelancing as a Frontend Developer  
+- Creating Major Backend Projects  
+- K-Drama Hub Project (React, TMDB API, MongoDB)  
 
-**Frontend:**
-- HTML, CSS, Bootstrap, tailwind
-- JavaScript, React.js
+## Projects  
+Some projects that showcase my skills:  
+- **Amazon Clone** – Fully responsive e-commerce frontend (JavaScript, CSS)  
+- **Contact Manager** – CRUD app with React and Local Storage  
+- **Movie Land** – Search movies using OMDB API (React)  
+- **Blog Website** – CRUD operations with Node.js and Express  
 
-**Backend:**
-- Node.js, Express.js
-- MongoDB, Firebase (Learning)
-
-**Other Skills:**
-- UI/UX Design (Learning)
-- Data Structures & Algorithms (JavaScript)
-- REST APIs & Database Management
-
----
-
-## 📌 Featured Projects
-
-🔹 **[Cloud Ignite](#)** - A Cloud Service Website (🚧 Work in Progress)  
-🔹 **[K-Drama Hub](#)** - A K-Drama Search & Info Platform  (🚧 Work in Progress)  
-
----
-
-## 📈 GitHub Stats
-
-![Mehak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaniz-naqvi&show_icons=true&theme=radical)
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mehak-naqvi/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-purple?style=flat&logo=react)](#)  
-[![Instagram](https://img.shields.io/badge/Instagram-Journey-orange?style=flat&logo=instagram)](#)  
-
----
-
-💡 *"Building the Future, One Line of Code at a Time."*
+## Let's Connect  
+- **GitHub**: [kaniz-naqvi](https://github.com/kaniz-naqvi)  
+- **LinkedIn**: [Your LinkedIn Profile](#)  
+- **Email**: [Your Email](#)  

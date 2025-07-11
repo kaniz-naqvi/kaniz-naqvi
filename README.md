@@ -31,7 +31,7 @@ Currently strengthening my backend knowledge with PostgreSQL and Node.js, while 
 |---------------------|-----------------------------------------------------|-------------------------------|
 | [Amazon Clone](https://github.com/kaniz-naqvi/Amazon)          | Fully responsive e-commerce frontend                     | HTML, CSS, JavaScript         |
 | [Contact Manager](https://github.com/kaniz-naqvi/Contact-Manager) | CRUD app with React, routing, and localStorage           | React, Bootstrap, Context API |
-| [Movie Land](https://github.com/kaniz-naqvi/Movie-Land)         | Search movies using OMDB API                             | React, API Integration        |
+| [Movie Land](https://github.com/kaniz-naqvi/Movie-App)         | Search movies using OMDB API                             | React, API Integration        |
 | [Blog Website](https://github.com/kaniz-naqvi/LikhSpire)     | Basic blogging app with CRUD operations                  | Node.js, Express, postgres,REST APIs  |
 
 ---

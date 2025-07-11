@@ -39,7 +39,7 @@ Currently strengthening my backend knowledge with PostgreSQL and Node.js, while 
 ## Let's Connect
 
 - GitHub: [kaniz-naqvi](https://github.com/kaniz-naqvi)  
-- LinkedIn: [Your LinkedIn Profile](#) *(update this)*  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mehak-fatima-naqvi/) 
 - Email: mehak313naqvi@gmail.com
 
 ---

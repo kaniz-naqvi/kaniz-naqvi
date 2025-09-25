@@ -67,7 +67,7 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 <td width="50%">
 
 ### EchoMe Portfolio Generator  
-**Full Stack SaaS Application**  
+**Full Stack SaaS Application (In Progress 🚧)**  
 - User dashboard with portfolio templates  
 - Free & paid subscription plans  
 - Modern UI with responsive design  

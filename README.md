@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Redux+Expert;Building+SaaS+Applications;Node.js+%26+PostgreSQL+Learner;Problem+Solver)](https://git.io/typing-svg)
 
-</div>
-
 ---
 
 ## About Me  
@@ -15,8 +13,6 @@
 I'm a **Junior Full Stack Developer** with strong **React** and **Redux Toolkit** expertise, currently building the frontend of **LeadLyft**, a UK-based SaaS platform. Alongside frontend, I am expanding into backend work with **Node.js, Express, and PostgreSQL**.  
 
 My long-term goal is to grow into a **Full Stack Developer** at scale and eventually specialize as an **AI Engineer**.  
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaniz-naqvi&color=blueviolet&style=flat-square)  
 [![GitHub followers](https://img.shields.io/github/followers/kaniz-naqvi?label=Follow&style=social)](https://github.com/kaniz-naqvi)
@@ -26,8 +22,6 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 ---
 
 ## Tech Stack  
-
-<div>
 
 ### Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -52,13 +46,11 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
-
 ---
 
-## Current Focus  
-
 <div align="center">
+
+## Current Focus  
 
 | **Current Work** | **Learning** | **Goals** |
 |:---:|:---:|:---:|
@@ -70,9 +62,9 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 
 ---
 
-## Featured Projects  
-
 <div align="center">
+
+## Featured Projects  
 
 <table>
 <tr>
@@ -137,9 +129,9 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 
 ---
 
-## GitHub Stats  
-
 <div align="center">
+
+## GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaniz-naqvi&show_icons=true&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-naqvi&layout=compact&hide_border=true)  

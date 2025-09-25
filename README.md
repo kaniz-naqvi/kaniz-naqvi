@@ -137,11 +137,14 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 
 
 ---
+
 <div align="center">
+
 ## Let's Connect  
 
-- GitHub: [kaniz-naqvi](https://github.com/kaniz-naqvi)  
-- LinkedIn: [Mehak Fatima Naqvi](https://www.linkedin.com/in/mehak-fatima-naqvi/)  
-- Email: mehak313naqvi@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaniz-naqvi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehak-fatima-naqvi/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehak313naqvi@gmail.com)
 
 </div>
+

@@ -6,8 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Redux+Expert;Building+SaaS+Applications;Node.js+%26+PostgreSQL+Learner;Problem+Solver)](https://git.io/typing-svg)
 
----
 </div>
+
+---
 
 ## About Me  
 
@@ -26,7 +27,7 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -47,8 +48,6 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 
 ---
 
-<div>
-
 ## Current Focus  
 
 | **Current Work** | **Learning** | **Goals** |
@@ -56,8 +55,6 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 | Junior Full Stack Developer @ **LeadLyft** | Scaling backend with Node.js & PostgreSQL | Full Stack Developer |
 | Building **EchoMe Portfolio Generator** | API design & database modeling | AI Engineer Specialization |
 | React & Redux Toolkit | Material UI (MUI) | Mid-level Developer Role |
-
-</div>
 
 ---
 
@@ -128,13 +125,24 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 
 ---
 
+<div align="center">
 
 ## GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaniz-naqvi&show_icons=true&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-naqvi&layout=compact&hide_border=true)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kaniz-naqvi&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-naqvi&layout=compact&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=kaniz-naqvi&row=1&theme=flat)
 
+</div>
 
 ---
 
@@ -147,4 +155,3 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehak313naqvi@gmail.com)
 
 </div>
-

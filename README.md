@@ -12,7 +12,7 @@ My long-term goal is to grow into a Full Stack Developer and eventually speciali
 - **Backend (In Practice):** Node.js, Express, PostgreSQL, Prisma, REST APIs  
 - **Problem Solving:** Data Structures & Algorithms in JavaScript  
 - **Architecture:** Component-driven UI, state management, API integration  
-- **Currently Exploring:** Material UI (MUI), scalable full stack project structure
+- **Currently Exploring:** scalable full stack project structure, Prisma, JWT
 
 ---
 
@@ -30,8 +30,8 @@ My long-term goal is to grow into a Full Stack Developer and eventually speciali
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [LeadLyft](#) | SaaS application – building the frontend, maintaining core features, and integrating APIs; exploring backend tasks | React, Redux Toolkit, Node.js, PostgreSQL |
-| [EchoMe Portfolio Generator](#) | Full stack SaaS side project – user dashboard, portfolio templates, free/paid plans | React, Express, PostgreSQL, Tailwind |
+| [LeadLyft](leadlyft.com) | SaaS application – building the frontend, maintaining core features, and integrating APIs; exploring backend tasks | React, Redux Toolkit, Node.js, PostgreSQL |
+| [EchoMe Portfolio Generator](https://github.com/kaniz-naqvi/EchoMe) | Full stack SaaS side project – user dashboard, portfolio templates, free/paid plans | React, Express, PostgreSQL, Tailwind |
 | [Amazon Clone](https://github.com/kaniz-naqvi/Amazon) | Fully responsive e-commerce frontend | HTML, CSS, JavaScript |
 | [Contact Manager](https://github.com/kaniz-naqvi/Contact-Manager) | CRUD app with React, routing, and localStorage | React, Bootstrap, Context API |
 | [Movie Land](https://github.com/kaniz-naqvi/Movie-App) | Search movies using OMDB API | React, API Integration |
@@ -41,7 +41,7 @@ My long-term goal is to grow into a Full Stack Developer and eventually speciali
 
 ## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kaniz-naqvi&theme=default&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaniz-naqvi&show_icons=true&hide_border=true&count_private=true)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaniz-naqvi&show_icons=true&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-naqvi&layout=compact&hide_border=true)  
 

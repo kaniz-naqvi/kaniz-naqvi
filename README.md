@@ -75,7 +75,8 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 **Tech Stack:** React, Express, PostgreSQL, Tailwind  
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/kaniz-naqvi/EchoMe)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://your-echome-demo-link.com)  
+<!-- Add Live Demo link once deployed -->
+
 
 </td>
 <td width="50%">

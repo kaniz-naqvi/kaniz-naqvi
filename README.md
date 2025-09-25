@@ -7,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Redux+Expert;Building+SaaS+Applications;Node.js+%26+PostgreSQL+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 ---
+</div>
 
 ## About Me  
 
@@ -16,8 +17,6 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaniz-naqvi&color=blueviolet&style=flat-square)  
 [![GitHub followers](https://img.shields.io/github/followers/kaniz-naqvi?label=Follow&style=social)](https://github.com/kaniz-naqvi)
-
-</div>
 
 ---
 
@@ -48,7 +47,7 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 
 ---
 
-<div align="center">
+<div>
 
 ## Current Focus  
 
@@ -129,7 +128,6 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 
 ---
 
-<div align="center">
 
 ## GitHub Stats  
 
@@ -137,12 +135,13 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-naqvi&layout=compact&hide_border=true)  
 ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=kaniz-naqvi&row=1&theme=flat)
 
-</div>
 
 ---
-
+<div align="center">
 ## Let's Connect  
 
 - GitHub: [kaniz-naqvi](https://github.com/kaniz-naqvi)  
 - LinkedIn: [Mehak Fatima Naqvi](https://www.linkedin.com/in/mehak-fatima-naqvi/)  
-- Email: mehak313naqvi@gmail.com  
+- Email: mehak313naqvi@gmail.com
+
+</div>

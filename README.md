@@ -137,7 +137,7 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kaniz-naqvi&show_icons=true&hide_border=true&count_private=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-naqvi&theme=react" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-naqvi&layout=compact&hide_border=true" />
